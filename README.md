@@ -1,1 +1,1 @@
-# starApi.io
+# starApi
